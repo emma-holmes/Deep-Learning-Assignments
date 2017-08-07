@@ -8,4 +8,4 @@ This assignment uses sklearn to train and test a logistic regression classifier.
 This assignment implements gradient descent and stochastic gradient descent using TensorFlow. To improve classification accuracy, I implement a 1-hidden layer neural network with rectified linear units (ReLU) and 1024 hidden nodes. My code can be found in the following ipython notebook: [2_fullyconnected.ipynb](2_fullyconnected.ipynb)
 
 ## Assignment 3: Regularisation
-To improve classification accuracy, I add L2 normalisation and dropout to the logistic and neural network models using TensorFlow. My code can be found in the following ipython notebook: [3_regularization.ipynb](3_regularization.ipynb)
+To improve classification accuracy, I add L2 normalisation and dropout to the logistic and neural network models using TensorFlow. I also add learning rate decay and experiment with networks with multiple hidden layers. My code can be found in the following ipython notebook: [3_regularization.ipynb](3_regularization.ipynb)
