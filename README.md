@@ -9,3 +9,6 @@ This assignment implements gradient descent and stochastic gradient descent usin
 
 ## Assignment 3: Regularisation
 To improve classification accuracy, I add L2 normalisation and dropout to the logistic and neural network models using TensorFlow. I also add learning rate decay and experiment with networks with multiple hidden layers. My code can be found in the following ipython notebook: [3_regularization.ipynb](3_regularization.ipynb)
+
+## Assignment 4: Convolutions
+In this assignment, I apply a convolutional neural network to the notNMIST dataset. I add max pooling, dropout, and learning rate decay to optimise performance. My code can be found in the following ipython notebook: [4_convolutions.ipynb](4_convolutions.ipynb)
